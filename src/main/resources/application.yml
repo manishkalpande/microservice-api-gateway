@@ -1,0 +1,6 @@
+#spring:
+#  cloud:
+#    gateway:
+#      routes:
+#        - id: user-service
+#          uri: lb;//user-service
